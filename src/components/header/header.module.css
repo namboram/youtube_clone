@@ -1,0 +1,49 @@
+.header {
+    width: 100%;
+    padding: 0.8em 1em;
+    display: flex;
+    margin: 0;
+    color: #fff;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left:2em;
+}
+
+.title {
+    font-size: 2em;
+}
+
+.container{
+    display: flex;
+    width: 50%;
+    margin-left:8em;
+}
+
+.input {
+    flex-basis: 100%;
+    font-size: 1.3rem;
+    outline: 0;
+    margin:auto; 
+    border: none;
+    outline: none;
+
+}
+
+.searchBtn{
+    background-color: rgb(94, 94, 94);
+    outline: 0;
+    height: 2.2em;
+    width: 4em;
+    border-radius:5%;
+    margin:auto;
+    cursor: pointer;
+
+}
+
+.searchImg{
+    height: -webkit-fill-available;
+    padding: 0.2em 0.2em;
+}
