@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/namboram/youtube_clone/static/css/main.ca76da85.chunk.css",
+    "main.js": "/namboram/youtube_clone/static/js/main.18ae2d55.chunk.js",
+    "main.js.map": "/namboram/youtube_clone/static/js/main.18ae2d55.chunk.js.map",
+    "runtime-main.js": "/namboram/youtube_clone/static/js/runtime-main.60f775f5.js",
+    "runtime-main.js.map": "/namboram/youtube_clone/static/js/runtime-main.60f775f5.js.map",
+    "static/js/2.821b7f64.chunk.js": "/namboram/youtube_clone/static/js/2.821b7f64.chunk.js",
+    "static/js/2.821b7f64.chunk.js.map": "/namboram/youtube_clone/static/js/2.821b7f64.chunk.js.map",
+    "index.html": "/namboram/youtube_clone/index.html",
+    "static/css/main.ca76da85.chunk.css.map": "/namboram/youtube_clone/static/css/main.ca76da85.chunk.css.map",
+    "static/js/2.821b7f64.chunk.js.LICENSE.txt": "/namboram/youtube_clone/static/js/2.821b7f64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f775f5.js",
+    "static/js/2.821b7f64.chunk.js",
+    "static/css/main.ca76da85.chunk.css",
+    "static/js/main.18ae2d55.chunk.js"
+  ]
+}
