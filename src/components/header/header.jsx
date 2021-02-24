@@ -1,4 +1,5 @@
 import React, {useRef} from 'react';
+import App from '../../app';
 import styles from './header.module.css';
 
 const Header = ({onSearch}) => {

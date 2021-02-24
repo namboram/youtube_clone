@@ -1,0 +1,32 @@
+.detail {
+    padding: 0.2em;
+}
+
+.video {
+    margin-left: 1em;
+}
+
+.titleBox {
+    margin-left: 1em;
+    border-bottom: 1px solid rgb(97, 97, 97);
+}
+
+.channelBox{
+    margin-left: 1em;
+    border-bottom: 1px solid rgb(97, 97, 97);
+}
+
+.title{
+    color: #fff;
+}
+
+.channel,
+.description {
+    color: #fff;
+}
+
+
+.description{
+    margin-left: 1em;
+    white-space: pre-wrap;
+}
